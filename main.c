@@ -3,9 +3,6 @@
 
 
 int main() {
-    hide_cursor();
-    clrscr();
-    show_cursor();
 
     return 0;
 }
